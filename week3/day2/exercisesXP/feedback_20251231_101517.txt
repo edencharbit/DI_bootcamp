@@ -1,0 +1,21 @@
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week3/day2/exercisesXP/exercise1.py
+suggestions for improvement:
+- No specific feedback.
+Correctness: 100%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week3/day2/exercisesXP/exercise2.py
+suggestions for improvement:
+- No specific feedback.
+Correctness: 100%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week3/day2/exercisesXP/exercise3.py
+suggestions for improvement:
+- Consider adding docstrings to your classes and methods for better documentation.
+- The `trained` attribute could be directly used in the `if` condition instead of `if self.trained is True:` for conciseness.
+Correctness: 100%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week3/day2/exercisesXP/exercise4.py
+suggestions for improvement:
+- No specific feedback.
+Correctness: 100%
+-----
