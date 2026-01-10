@@ -1,0 +1,21 @@
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/MiniProject/anagram_checker.py
+suggestions for improvement:
+- Consider using a set instead of a list for `word_lst` to improve the `is_valid_word` method's performance.
+- The `is_anagram` method can be made a standalone function instead of a static method if it doesn't conceptually belong to the class.
+Correctness: 100%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/MiniProject/anagrams.py
+suggestions for improvement:
+- The provided code references a file path 'week4.MiniProject.anagram_checker'. This indicates the code might be part of a larger project from a specific week, which isn't self-contained or runnable in the current context. To make this code runnable for assessment, ensure that all necessary files and paths are included and that the structure aligns with the provided code.
+- The provided code snippet depends on an external class `AnagramChecker` that is not defined in the code itself. You should provide the definition of the class so that the code can be executed and assessed.
+- The path for text file is broken. It should be fixed.
+Correctness: 0%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/MiniProject/sowpods.txt
+suggestions for improvement:
+- This is not a Python code submission. It's just a text file, so it can't be graded for correctness of solving any programming task requirements.
+- This is a dictionary of English words that is required for the Anagram Checker program.
+- This code snippet is a plain text file containing a list of words. It's not Python code and therefore cannot be assessed for correctness or functionality related to the stated problem of implementing an Anagram Checker.
+- This file contains a large list of words; without the other parts of the program it cannot be assessed for correctness.
+Correctness: 0.0%
+-----
