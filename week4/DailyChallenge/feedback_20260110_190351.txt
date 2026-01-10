@@ -1,0 +1,10 @@
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/DailyChallenge/challenge1.py
+suggestions for improvement:
+- Skipping file (too many comments or blank lines).
+Correctness: N/A%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/DailyChallenge/challenge2.py
+suggestions for improvement:
+- No specific feedback.
+Correctness: 100%
+-----
