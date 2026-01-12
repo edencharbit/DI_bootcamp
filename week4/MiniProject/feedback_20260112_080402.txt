@@ -1,0 +1,21 @@
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/MiniProject/anagram_checker.py
+suggestions for improvement:
+- Consider handling potential file not found errors in the `__init__` method for better robustness.
+- The performance of `get_anagrams` could be improved by pre-computing the sorted form of all words in the dictionary during initialization. This avoids re-sorting each word for every comparison.
+Correctness: 100%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/MiniProject/anagrams.py
+suggestions for improvement:
+- The instructions for downloading the file are now for a zip file and the AnagramChecker class is expecting a text file. Update your AnagramChecker to read the words from inside the zipped file.
+- Consider adding more robust error handling (e.g., handling file not found exceptions).
+- The code assumes the `AnagramChecker` class is in `week4.MiniProject.anagram_checker`, which might not be the case for all users. Consider making the import more flexible or providing instructions on how to structure the project.
+- Consider putting the error message strings into constants to improve maintainability.
+- The use of upper() is repeated, consider doing this once before the if statement.
+Correctness: 70%
+-----
+URL: https://github.com/edencharbit/DI_bootcamp/blob/master/week4/MiniProject/sowpods.txt
+suggestions for improvement:
+- The provided text file content, while likely intended to be a word list, is not code. Therefore, it cannot directly address the problem described in the chapter content, which involves creating Python files with specific functionalities. The instructions require an `anagram_checker.py` file containing a class called `AnagramChecker` with methods for loading the word list, validating words, and finding anagrams, as well as an `anagrams.py` file for the user interface. Since there is no attempt to provide code to achieve this task, the correctness score is 0%.
+- This submission is a text file containing a large list of words. It doesn't implement any of the required functionality outlined in the chapter content, such as the `AnagramChecker` class or any UI elements. Therefore, it's irrelevant to the task.
+Correctness: 0.0%
+-----
