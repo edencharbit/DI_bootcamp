@@ -1,4 +1,8 @@
+'''
+
+
 Topic: Predictive Data Analysis in Global Health – The Case of BlueDot and COVID-19
+
 1.	Introduction
 In late 2019, while the world was unaware of an impending pandemic,
  an AI-driven startup in Toronto called BlueDot was already flagging a crisis.
@@ -32,4 +36,6 @@ This case demonstrates that data analysis has shifted from a tool for
 "looking back" at history to a tool for predicting the future. In the context
  of modern decision-making, it proves that "Big Data" provides a critical layer
   of security that traditional methods cannot match.
+
+'''
 
